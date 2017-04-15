@@ -1,0 +1,9 @@
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\bin\Debug\Poedit translate file Auto Update.exe.config
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\bin\Debug\Poedit translate file Auto Update.exe
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\bin\Debug\Poedit translate file Auto Update.pdb
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit translate file Auto Update.csprojResolveAssemblyReference.cache
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit_translate_file_Auto_Update.Form1.resources
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit_translate_file_Auto_Update.Properties.Resources.resources
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit translate file Auto Update.csproj.GenerateResource.Cache
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit translate file Auto Update.exe
+c:\users\borg\documents\visual studio 2015\Projects\Poedit translate file Auto Update\Poedit translate file Auto Update\obj\Debug\Poedit translate file Auto Update.pdb
